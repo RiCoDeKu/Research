@@ -1,0 +1,292 @@
+start_frame;end_frame;narration
+99;242;move chair
+286;331;take knife
+313;399;take plate
+441;474;put down knife
+613;674;open bin
+724;841;throw leftovers into bin
+851;922;close bin
+1042;1130;put plate onto plate
+1135;1212;take plates
+1268;1372;take plate
+1374;1511;put plate onto plates
+1547;1618;put down plates
+1623;1777;put down cutlery
+1828;1991;take paper
+2184;2293;open bin
+2283;2314;throw paper into bin
+2317;2363;close bin
+2433;2520;take table cloth
+2575;3108;fold table cloth
+3129;3192;open drawer
+3171;3363;put table cloth into drawer
+3550;3632;take table cloth
+3638;4148;fold table cloth
+4147;4224;put table cloth into drawer
+4212;4273;close drawer
+4378;4432;take sponge
+4430;4505;turn on tap
+4491;4665;rinse sponge
+4581;4684;close tap
+4746;4795;take washing up liquid
+4830;4920;pour washing up liquid
+4903;5032;squeeze sponge
+5056;5143;take spatula
+5149;5670;wash spatula
+5667;6299;continue washing spatula
+6296;6348;put down spatula
+6350;6388;take spatula
+6394;7335;wash spatula
+7334;7435;put down spatula
+7413;7489;take knife
+7495;7787;wash knife
+7742;7808;put down knife
+7801;7885;take knife
+7880;8112;wash knife
+8118;8176;put down knife
+8166;8245;take spoon
+8248;8366;wash spoon
+8371;8415;put down spoon
+8409;8546;take fork
+8471;8751;wash fork
+8745;8800;put down fork
+8802;8843;take knife
+8849;9256;wash knife
+8902;9022;wash knife
+9262;9301;put down knife
+9291;9351;take fork
+9355;9824;wash knife
+9795;9840;put down knife
+9846;9906;take fork
+9877;9912;take fork
+9912;10178;wash fork
+9933;10179;wash fork
+10161;10206;put down fork
+10183;10220;put down fork
+10607;10679;take knife
+10679;11166;wash knife
+11146;11203;put down knife
+11200;11300;take plate
+11232;11516;wash plate
+11306;11386;turn on tap
+11374;11419;rinse plate
+11421;11473;turn off tap
+11522;12220;continue washing plate
+12154;12264;put down plate
+12270;12475;take plate
+12481;12659;turn on tap
+12530;12641;rinse plate
+12608;12683;turn off tap
+12689;12968;wash plate
+12974;13338;continue washing pate
+13530;13615;put down plate
+13605;13686;take plate
+13684;13810;wash plate
+13791;13893;turn on tap
+13835;13895;rinse plate
+13886;13916;close tap
+13937;14237;wash plate
+14258;14303;put on sponge
+14401;14440;take sponge
+14446;14701;wash plate
+14707;14770;put down sponge
+14741;14800;turn on tap
+14856;15491;rinse plate
+15563;15683;put down plate
+15724;15812;take plate
+15754;16081;rinse plate
+16087;16132;take sponge
+16132;16282;wash plate
+16270;16641;rinse plate
+16611;16777;drain plate
+16767;17007;put plate down
+16962;17719;rinse plate
+17716;17851;put down plate
+17853;17926;take spatula
+17930;18462;rinse spatula
+18444;18487;take sponge
+18495;18619;wash spatula
+18603;18678;rinse spatula
+18657;18742;move pan
+18729;19243;remove pasta
+19249;19455;rinse spatula
+19417;19447;take sponge
+19452;19734;wash spatula
+19723;19770;put down sponge
+19767;19837;adjust tap
+19843;20062;rinse spatula
+20057;20139;put down spatula
+20161;20240;take knife
+20164;20423;rinse knife
+20230;20438;rinse knife
+20428;20463;put down knife
+20429;20460;put down knife
+20466;20551;take knife
+20467;20564;take knife
+20557;20709;rinse knife
+20715;20762;put down knife
+21044;21089;take fork
+21095;21275;rinse fork
+21273;21322;put down fork
+21281;21324;put down fork
+21317;21367;take fork
+21336;21421;take fork
+21373;21558;rinse fork
+21427;21570;rinse fork
+21754;21812;take sponge
+21766;21801;take sponge
+21772;21901;wash fork
+21878;21918;put down sponge
+21950;22015;rinse fork
+21994;22027;put down fork
+22076;22165;take knife
+22153;22323;rinse knife
+22297;22517;wash knife
+22523;22571;put down sponge
+22571;22684;rinse knife
+22665;22695;put down knife
+22679;22709;put down knife
+22710;22747;take spoon
+22766;22871;rinse spoon
+22873;22908;put down spoon
+22913;22943;take knife
+22949;23131;rinse knife
+23158;23196;take spatula.
+23194;23596;rinse spatula.
+23619;23664;put down spatula.
+23743;23773;close tap.
+23869;24498;wash cutting board.
+24528;24588;take washing up liquid.
+24609;24714;pour washing up liquid.
+24720;24780;put down washing up liquid.
+24813;25486;wash pan.
+24822;24944;empty pan.
+25506;25641;continue washing pan.
+25633;25677;put down pan.
+25687;25817;take colander.
+25921;26058;remove pasta.
+26049;26091;take sponge
+26103;26494;wash colander
+26479;26546;put down colander
+26634;27078;remove pasta
+26703;27662;remove pasta
+27133;27174;put down sponge
+27798;27890;empty pan
+28077;28136;take sponge
+28127;28634;wash pan
+28723;29043;continue washing pan
+29063;29118;put down pan
+29141;29217;take container
+29207;29292;open container
+29299;29659;wash container
+29629;29685;put down container
+29749;29808;take lid
+29777;29949;wash lid
+29951;29998;put down lid
+29989;30029;take container
+30021;30202;wash container
+30201;30231;put down container and sponge
+30357;30402;rinse hands
+30448;30777;rinse container
+30750;30840;put down container
+30837;31380;rinse container
+30846;30921;take container
+31378;31448;put down container
+31463;31640;take lid
+31641;31847;rinse lid
+31854;31919;put down lid
+31924;31976;take lid
+31969;32119;rinse lid
+32142;32197;put down lid
+32217;32290;take colander
+32282;33067;rinse colander
+32475;33093;still rinsing colander
+33115;33192;take sponge
+33198;33313;wash colander
+33318;33363;squeeze sponge
+33382;33457;wash colander
+33840;34125;rinse colander
+34141;34264;put down colander
+34327;34377;take pan
+34366;35402;wash pan
+34389;34657;rinse pan
+34669;34711;take sponge
+35024;35077;squeeze sponge
+35076;35142;put down sponge
+35096;35353;rinse sponge
+35359;35561;put down pan
+35587;35705;empty saucepan
+35711;36196;rinse pan
+36178;36294;put down pan
+36300;36346;take cutting board
+36352;37182;rinse cutting board
+36420;37108;continue rinsing cutting board
+37102;37132;turn off tap
+37138;37286;drain cutting board
+37331;37451;put down cutting board
+37600;37692;squeeze sponge
+37699;37733;put down sponge
+37762;37939;take pasta
+37945;38251;squeeze pasta
+38604;38683;open bin
+38669;38707;throw pasta into bin
+38703;38735;close bin
+38843;38884;take washing up liquid
+38890;38949;open cupboard
+38989;39114;dry hands
+39120;39299;take cleansing
+40273;40599;wipe counter
+40634;41305;wipe cooker
+41359;41444;take sponge
+41478;42028;wipe cooker
+42042;42089;put down sponge
+42062;42150;take cloth
+42147;42561;wipe cooker
+42602;42778;wipe counter
+42783;42855;open bin
+42859;42932;throw something into bin
+43073;43163;turn on tap
+43162;43512;wash cloth
+43518;43563;turn off tap
+43580;43730;squeeze cloth
+43771;45167;wipe cooker
+44530;45880;continue wiping cooker
+45958;46055;turn on tap
+46008;46221;wash cloth
+46194;46254;turn off tap
+46260;46380;squeeze cloth
+46459;47302;wipe cooker
+47321;47597;wipe counter
+47661;48424;wipe counter
+48442;48696;wash sponge
+48450;48510;turn on tap
+48550;49010;wash cloth
+48660;48742;put down sponge
+48748;48856;wash sink
+48862;49151;squeeze cloth
+49147;49612;wipe counter
+49510;49872;continue wiping counter
+49843;50424;wipe sink
+50221;50859;continue wiping sink
+50822;50931;put down sponges
+50916;51526;squeeze clothe
+51015;51090;turn on tap
+51085;51319;wash cloth
+51330;51367;turn off tap
+51393;51484;squeeze cloth
+51533;52186;wipe counter
+52192;52400;wipe sink
+52399;52456;put down soap
+52479;52565;move washing up liquid
+52743;52834;turn on tap
+52856;53058;wash cloth
+53085;53122;put down cloth
+53121;53620;wash hands
+53614;53656;turn off tap
+53797;54217;dry hands
+54223;54283;hang cloth
+54315;54444;move chair
+54629;54778;move chair
+54806;54907;take glass
+54899;55328;pour wine
+55334;55416;put down bottle

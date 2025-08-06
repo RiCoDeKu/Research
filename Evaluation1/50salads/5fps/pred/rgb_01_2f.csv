@@ -1,0 +1,189 @@
+start_frame;stop_frame;narration
+0;21;The scene displays a static overhead view of a countertop arranged with various cooking ingredients and utensils, with no human activity present.
+22;26;A person's right hand enters the frame and reaches for a small bottle.
+27;31;A person picks up a small seasoning bottle.
+32;57;A person vigorously shakes the seasoning bottle, presumably to dispense its contents.
+58;62;A person places the seasoning bottle back onto the countertop.
+63;71;The person's hands are momentarily idle, repositioning for the next task.
+72;76;A person's left hand enters the frame and reaches for a small glass.
+77;81;A person picks up the small glass.
+82;91;A person holds the glass in their left hand while adjusting a recipe paper with their right hand.
+92;101;A person reads or reviews the recipe paper while holding the glass.
+102;106;A person places the small glass back onto the countertop.
+107;111;The person's hands move slightly, preparing for the next action.
+112;116;A person picks up a dark bottle from the left side of the frame.
+117;121;A person removes the lid from the dark bottle.
+122;126;A person places the lid of the dark bottle down.
+127;131;A person reaches for a white and blue container.
+132;136;A person picks up the white and blue container.
+137;141;A person begins to open the white and blue container.
+142;151;A person fully opens the white and blue container.
+152;156;A person's right hand reaches for a spoon.
+157;161;A person picks up a spoon.
+162;176;A person uses the spoon to scoop contents from the white and blue container.
+177;186;A person transfers the scooped contents from the spoon into the glass.
+187;191;A person places the spoon back down.
+192;196;A person closes the white and blue container.
+197;201;A person places the white and blue container back onto the countertop.
+202;206;A person reaches for a black shaker/grinder.
+207;211;A person picks up the black shaker/grinder.
+212;216;A person opens the black shaker/grinder.
+217;221;A person reaches for the spoon again.
+222;226;A person picks up the spoon again.
+227;236;A person uses the spoon to scoop contents from the black shaker/grinder.
+237;241;A person transfers the scooped contents from the spoon into the glass.
+242;246;A person places the spoon back down.
+247;251;A person closes the black shaker/grinder.
+252;256;A person places the black shaker/grinder back onto the countertop.
+257;261;The person's hands briefly move.
+262;266;A person picks up the dark bottle again.
+267;271;A person removes the cap from the dark bottle.
+272;276;A person begins to pour from the dark bottle into the glass.
+277;291;A person pours liquid from the dark bottle into the glass.
+292;296;A person places the dark bottle down near the glass.
+297;301;A person picks up the spoon again.
+302;306;A person uses the spoon to stir the contents in the glass.
+307;311;A person places the spoon back down.
+312;316;A person picks up the cap of the dark bottle.
+317;321;A person puts the cap back on the dark bottle.
+322;326;A person slightly adjusts the dark bottle.
+327;336;The person's hands briefly move.
+337;341;A person picks up a second dark bottle (olive oil).
+342;346;A person removes the cap from the olive oil bottle.
+347;351;A person holds the cap and bottle.
+352;356;A person places the cap down.
+357;361;A person positions the olive oil bottle over the glass.
+362;381;A person pours olive oil from the bottle into the glass.
+382;386;A person places the olive oil bottle down.
+387;391;A person picks up the cap of the olive oil bottle.
+392;401;A person puts the cap back on the olive oil bottle.
+402;406;A person adjusts the olive oil bottle.
+407;411;A person places the olive oil bottle back onto the countertop.
+412;416;The person's hands briefly move.
+417;421;A person picks up the glass to mix its contents.
+422;426;A person shakes the glass to mix the dressing.
+427;431;A person places the glass back down.
+432;436;A person removes the lid from the glass.
+437;441;A person briefly holds the lid.
+442;446;A person replaces the lid on the glass.
+447;451;A person adjusts the glass with the lid.
+452;456;The person's hands move.
+457;461;A person reaches for a package of cheese.
+462;466;A person picks up the cheese package.
+467;471;A person begins to unwrap the cheese package.
+472;476;A person continues unwrapping the cheese.
+477;481;A person fully opens the cheese package.
+482;486;A person starts to remove the cheese from its packaging.
+487;496;A person removes the cheese block from the packaging.
+497;501;A person places the cheese block onto the cutting board.
+502;506;A person handles the empty cheese packaging.
+507;511;A person discards the empty cheese packaging off_screen.
+512;516;The person's hands are momentarily empty.
+517;521;A person adjusts the cheese block on the cutting board.
+522;531;The person's hands are idle over the cutting board.
+532;536;A person adjusts their posture.
+537;541;The person's hands are momentarily idle.
+542;546;A person picks up a knife from the knife block.
+547;551;A person positions the knife over the cheese.
+552;556;A person makes the first cut on the cheese.
+557;561;A person continues to cut the cheese.
+562;566;A person makes another cut on the cheese.
+567;571;A person continues cutting the cheese.
+572;576;A person makes another cut on the cheese.
+577;581;A person separates the cut cheese pieces.
+582;586;A person makes another cut on the cheese.
+587;591;A person makes another cut on the cheese.
+592;596;A person makes another cut on the cheese.
+597;601;A person makes another cut on the cheese.
+602;606;A person makes another cut on the cheese.
+607;611;A person makes another cut on the cheese.
+612;616;A person makes another cut on the cheese.
+617;621;A person makes the final cuts on the cheese.
+622;626;A person begins to gather the cut cheese pieces.
+627;631;A person gathers the cut cheese pieces with both hands.
+632;636;A person continues gathering the cheese.
+637;641;A person continues gathering the cheese.
+642;646;A person continues gathering the cheese.
+647;651;A person continues gathering the cheese.
+652;656;A person continues gathering the cheese.
+657;661;A person continues gathering the cheese.
+662;666;A person continues gathering the cheese.
+667;671;A person continues gathering the cheese.
+672;676;A person continues gathering the cheese.
+677;681;A person continues gathering the cheese.
+682;686;A person continues gathering the cheese.
+687;691;A person continues gathering the cheese.
+692;696;A person continues gathering the cheese.
+697;701;A person holds the gathered cheese pieces.
+702;706;A person positions the gathered cheese over the glass bowl.
+707;711;A person drops the gathered cheese into the glass bowl.
+712;716;A person ensures all cheese is transferred.
+717;721;A person adjusts the glass bowl.
+722;726;The person's hands are momentarily idle.
+727;731;A person picks up a slice of tomato.
+732;736;A person positions the tomato slice on the cutting board.
+737;741;A person picks up the knife.
+742;746;A person makes the first cut on the tomato.
+747;751;A person continues cutting the tomato.
+752;756;A person makes another cut on the tomato.
+757;761;A person moves the knife away.
+762;766;A person gathers the cut tomato pieces.
+767;771;A person transfers the first batch of cut tomato into the glass bowl.
+772;776;A person ensures all tomato pieces are transferred.
+777;781;The person's hands are momentarily idle.
+782;786;A person picks up another tomato slice.
+787;791;A person positions the tomato slice on the cutting board.
+792;796;A person picks up the knife.
+797;801;A person makes the first cut on the tomato.
+802;806;A person continues cutting the tomato.
+807;811;A person makes another cut on the tomato.
+812;816;A person makes another cut on the tomato.
+817;821;A person makes another cut on the tomato.
+822;826;A person makes another cut on the tomato.
+827;831;A person makes another cut on the tomato.
+832;836;A person makes another cut on the tomato.
+837;841;A person makes another cut on the tomato.
+842;846;A person makes another cut on the tomato.
+847;851;A person makes another cut on the tomato.
+852;856;A person makes another cut on the tomato.
+857;861;A person makes another cut on the tomato.
+862;866;A person makes another cut on the tomato.
+867;871;A person makes another cut on the tomato.
+872;876;A person makes the final cuts on the tomato.
+877;881;A person gathers the cut tomato pieces on the board.
+882;886;A person positions the gathered tomato over the glass bowl.
+887;891;A person transfers the second batch of cut tomato into the glass bowl.
+892;896;A person picks up a cucumber.
+897;901;A person positions the cucumber on the cutting board.
+902;906;A person reaches for the peeler.
+907;911;A person picks up the peeler.
+912;916;A person starts peeling the cucumber.
+917;921;A person continues peeling the cucumber.
+922;926;A person finishes peeling and puts the peeler down.
+927;931;A person adjusts the peeled cucumber on the cutting board.
+932;936;A person picks up the knife.
+937;941;A person positions the knife over the cucumber.
+942;946;A person makes the first slice on the cucumber.
+947;951;A person continues slicing the cucumber.
+952;956;A person makes another slice on the cucumber.
+957;961;A person continues slicing the cucumber.
+962;966;A person makes another slice on the cucumber.
+967;971;A person continues slicing the cucumber.
+972;976;A person makes another slice on the cucumber.
+977;981;A person continues slicing the cucumber.
+982;986;A person makes another slice on the cucumber.
+987;991;A person continues slicing the cucumber.
+992;996;A person makes another slice on the cucumber.
+997;1001;A person continues slicing the cucumber.
+1002;1006;A person makes another slice on the cucumber.
+1007;1011;A person makes the final slices on the cucumber.
+1012;1016;A person separates the sliced cucumber pieces.
+1017;1021;The person's hands are momentarily idle.
+1022;1026;A person begins to gather the sliced cucumber pieces.
+1027;1031;A person gathers the sliced cucumber pieces with both hands.
+1032;1036;A person continues gathering the cucumber.
+1037;1041;A person continues gathering the cucumber.
+1042;1046;A person continues gathering the cucumber.
+1047;1051;A person continues gathering the cucumber.
+1052;1056;A person positions the gathered cucumber over the large blue mixing bowl.
+1057;1061;A person transfers the sliced cucumber into the large blue mixing bowl.

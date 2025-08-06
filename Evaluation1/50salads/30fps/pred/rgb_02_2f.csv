@@ -1,0 +1,91 @@
+start_frame;stop_frame;narration
+0;43;The person enters the frame and positions themselves at the workstation.
+44;64;The person picks up a vegetable peeler from the table.
+65;104;The person examines the vegetable peeler.
+105;163;The person places the vegetable peeler down onto the table.
+164;373;The person is not actively engaged in a task at the workstation.
+374;424;The person picks up a small rectangular package from the left side of the table.
+425;483;The person places the small rectangular package onto the left side of the table.
+484;513;The person stands idly at the workstation.
+514;553;The person picks up a white paper object and places it onto the cutting board.
+554;1563;The person is not visibly performing actions at the workstation, indicating a pause or off-camera activity.
+1564;1593;The person picks up a knife from the knife block.
+1594;1623;The person places the knife onto the cutting board.
+1624;1653;The person picks up a red tomato.
+1654;1683;The person places the tomato onto the cutting board.
+1684;2523;The person cuts the tomato into small, diced pieces.
+2524;2553;The person transfers the chopped tomato from the cutting board into the blue bowl.
+2554;2603;The person picks up the knife and repositions it on the cutting board.
+2604;2703;The person uses the knife to gather remaining tomato pieces.
+2704;2733;The person sweeps the last of the chopped tomato into the bowl.
+2734;2843;The person stands idly at the workstation.
+2844;2873;The person picks up a green cucumber.
+2874;2903;The person places the cucumber onto the cutting board.
+2904;2993;The person cuts off the end of the cucumber.
+2994;3023;The person moves the knife away from the cucumber.
+3024;3083;The person places the knife down onto the table.
+3084;3113;The person picks up the vegetable peeler.
+3114;3963;The person peels the skin off the cucumber.
+3964;3993;The person places the peeled cucumber onto the cutting board.
+3994;4023;The person picks up the knife.
+4024;4053;The person positions the knife over the cucumber.
+4054;4803;The person slices the cucumber into small rounds.
+4804;4863;The person transfers the sliced cucumber from the cutting board into the blue bowl.
+4864;4893;The person tidies the cutting board by moving remaining cucumber slices.
+4894;5123;The person is not actively engaged in a task at the workstation.
+5124;5153;The person picks up a small white rectangular package.
+5154;5193;The person unwraps the small white rectangular package.
+5194;5223;The person places the unwrapped item, which appears to be cheese, onto the cutting board.
+5224;5253;The person picks up the knife.
+5254;6293;The person cuts the cheese into small cubes.
+6294;6323;The person transfers the chopped cheese from the cutting board into the blue bowl.
+6324;6413;The person is not actively engaged in a task at the workstation.
+6414;6453;The person reaches for a bag of pre-cut lettuce.
+6454;6513;The person picks up the bag of lettuce.
+6514;6573;The person removes a portion of lettuce from the bag.
+6574;6603;The person places the lettuce onto the cutting board.
+6604;6633;The person adjusts the lettuce on the cutting board.
+6634;7413;The person chops the lettuce into smaller pieces.
+7414;7473;The person transfers the chopped lettuce from the cutting board into the blue bowl.
+7474;7613;The person is not actively engaged in a task at the workstation.
+7614;7653;The person picks up a large mixing spoon.
+7654;7713;The person positions the mixing spoon in the bowl.
+7714;8073;The person mixes the ingredients in the blue bowl.
+8074;8103;The person places the mixing spoon down onto the table.
+8104;8133;The person picks up a dark bottle, likely olive oil.
+8134;8243;The person opens the dark bottle of olive oil.
+8244;8303;The person pours olive oil into the bowl.
+8304;8333;The person closes the dark bottle of olive oil.
+8334;8363;The person places the olive oil bottle down onto the table.
+8364;8403;The person picks up a clear bottle, likely vinegar.
+8404;8463;The person opens the clear bottle of vinegar.
+8464;8553;The person pours vinegar into the bowl.
+8554;8583;The person closes the clear bottle of vinegar.
+8584;8613;The person places the vinegar bottle down onto the table.
+8614;8643;The person picks up a small white salt shaker.
+8644;8673;The person opens the salt shaker.
+8674;8733;The person sprinkles salt into the bowl.
+8734;8763;The person closes the salt shaker.
+8764;8793;The person places the salt shaker down onto the table.
+8794;8823;The person picks up a small black pepper shaker.
+8824;8853;The person opens the pepper shaker.
+8854;8903;The person sprinkles pepper into the bowl.
+8904;8933;The person closes the pepper shaker.
+8934;8963;The person places the pepper shaker down onto the table.
+8964;9003;The person picks up the mixing spoon again.
+9004;9443;The person mixes the salad and dressing in the bowl.
+9444;9483;The person picks up a serving plate.
+9484;9513;The person places the plate onto the table next to the bowl.
+9514;9783;The person serves the mixed salad from the bowl onto the plate using the mixing spoon.
+9784;9813;The person finishes serving a portion of the salad.
+9814;9853;The person places the mixing spoon onto the cutting board.
+9854;9953;The person picks up the plate with the served salad.
+9954;9993;The person moves the plate with the salad out of the frame.
+9994;10073;The person picks up the vegetable peeler from the table.
+10074;10103;The person briefly examines the peeler.
+10104;10253;The person cleans the vegetable peeler.
+10254;10283;The person places the vegetable peeler down onto the table.
+10284;10313;The person picks up the knife.
+10314;10363;The person picks up the cutting board.
+10364;10433;The person moves the cutting board and knife out of the frame.
+10434;10527;The person has cleared the workstation and is no longer performing visible actions.

@@ -1,0 +1,35 @@
+start_frame;stop_frame;narration
+160;283;A person reaches for and picks up the yellow base plate from the right shelf.
+284;309;A person places the yellow base plate onto the black mat on the table.
+310;373;A person reaches for and picks up a wooden bar from the black mat on the left.
+374;459;A person positions the wooden bar onto the yellow base plate, aligning it over the holes.
+460;493;A person reaches for and picks up the red wrench from the black mat on the left.
+494;523;A person positions the red wrench onto a white screw to begin fastening the wooden bar.
+524;583;A person turns the red wrench to fasten the wooden bar to the yellow base plate.
+584;609;A person removes the red wrench from the fastened wooden bar and places it back on the mat.
+610;639;A person reaches for and picks up a red knob from the container on the table.
+640;669;A person attaches the first red knob to a specific hole on the yellow base plate.
+670;719;A person reaches for and picks up a blue column from the right shelf.
+720;759;A person positions the blue column over a designated hole on the wooden bar.
+760;829;A person pushes down to attach the blue column firmly to the wooden bar.
+830;879;A person detaches and removes the blue column from the wooden bar.
+880;909;A person returns the blue column to the right shelf.
+910;939;A person reaches for and picks up the clear plastic bag of connectors.
+940;979;A person retrieves a blue connector from the clear plastic bag.
+980;1039;A person attaches the first blue connector to the wooden bar.
+1040;1069;A person reaches for and picks up a black ring from the container on the table.
+1070;1129;A person attaches the black ring onto the blue connector.
+1130;1179;A person retrieves a wooden dowel from the clear plastic bag.
+1180;1209;A person inserts the wooden dowel through the black ring and into the blue connector.
+1210;1309;A person manipulates and adjusts the assembled wooden dowel, black ring, and blue connector.
+1310;1389;A person reaches for and picks up a white screw from the container on the table.
+1390;1439;A person attaches the white screw to the end of the blue connector.
+1440;1469;A person reaches for the clear plastic bag of connectors again.
+1470;1509;A person retrieves a second blue connector from the clear plastic bag.
+1510;1599;A person attaches the second blue connector to the white screw.
+1600;1639;A person reaches for and picks up a second red knob from the container on the table.
+1640;1699;A person attaches the second red knob to a different specific hole on the yellow base plate.
+1700;1729;A person reaches for the clear plastic bag of connectors for a third time.
+1730;1769;A person retrieves a third blue connector from the clear plastic bag.
+1770;1829;A person attaches the third blue connector to another specific hole on the yellow base plate.
+1830;1920;A person connects the third blue connector to the second red knob, completing the assembly.

@@ -1,0 +1,37 @@
+start_frame;stop_frame;narration
+0;6;The scene is set with various ingredients and kitchen tools laid out on a white surface.
+7;11;The person's hand reaches for and picks up the vegetable peeler from the surface.
+12;42;The person holds the cucumber and uses the peeler to remove its skin.
+43;47;The person places the peeler back onto the surface.
+48;66;The scene remains static with no visible human action.
+67;77;The person's hand reaches for and picks up a packet of cheese.
+78;261;The scene remains static with no visible human action.
+262;267;The person's hand reaches for and picks up a knife from the left side of the cutting board.
+268;277;The person picks up a tomato and places it onto the cutting board.
+278;422;The person uses the knife to slice and dice the tomato on the cutting board.
+423;427;The person uses the knife to push the diced tomato into the blue bowl.
+428;471;The scene remains static with no visible human action after the tomato is in the bowl.
+472;477;The person picks up the cucumber and places it onto the cutting board.
+478;511;The person's hand reaches for and picks up the vegetable peeler again.
+512;657;The person peels the skin off the cucumber using the peeler.
+658;661;The person places the peeler back onto the surface.
+662;817;The person uses the knife to slice the peeled cucumber into pieces on the cutting board.
+818;822;The person uses the knife to push the sliced cucumber into the blue bowl.
+823;851;The scene remains static with no visible human action after the cucumber is in the bowl.
+852;862;The person picks up the cheese and unwraps it from its packaging.
+863;1022;The person uses the knife to cut the block of cheese into smaller cubes.
+1023;1032;The person uses the knife to push the diced cheese into the blue bowl.
+1033;1091;The scene remains static with no visible human action after the cheese is in the bowl.
+1092;1101;The person takes lettuce from the plastic container.
+1102;1237;The person uses the knife to chop the lettuce into smaller shreds.
+1238;1242;The person uses the knife to push the shredded lettuce into the blue bowl.
+1243;1346;The scene remains static with no visible human action after the lettuce is in the bowl.
+1347;1392;The person picks up the olive oil bottle, opens it, pours oil into the bowl, then closes and places the bottle back.
+1393;1437;The person picks up the vinegar bottle, opens it, pours vinegar into the bowl, then closes and places the bottle back.
+1438;1462;The person picks up the salt shaker, opens it, sprinkles salt into the bowl, then closes and places the shaker back.
+1463;1497;The person picks up the pepper shaker, opens it, sprinkles pepper into the bowl, then closes and places the shaker back.
+1498;1577;The person picks up a spoon and mixes all the ingredients together in the blue bowl.
+1578;1652;The person picks up a plate and transfers the mixed salad from the bowl onto the plate using the spoon.
+1653;1721;The scene remains static with the prepared salad on a plate and the mixing bowl containing a spoon.
+1722;1737;The person removes the cutting board and the knife from the workspace.
+1738;1757;The workspace is clear, with the salad ready on a plate and other tools and ingredients remaining on the table.

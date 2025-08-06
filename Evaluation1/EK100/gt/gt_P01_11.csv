@@ -1,0 +1,149 @@
+start_frame;end_frame;narration
+1;113;take plate
+93;147;put down plate
+178;827;take pizza
+861;925;put pizza onto plate
+1005;1909;take pizza
+1963;2032;put pizza slice onto plate
+2062;2469;take pizza slice
+2474;2553;put pizza slice onto plate
+2569;2641;take paper
+2646;2770;fold paper
+2949;3057;take paper
+3096;3149;open bin
+3118;3181;throw paper into bin
+3178;3219;close bin
+3233;3280;take tray
+3331;3405;take spatula
+3402;3462;put down tray
+3510;3624;take trays
+3688;3751;put down trays
+3750;3843;put down spatula and pizza cutter
+3891;3998;dry hands
+4038;4120;take plate
+4165;4259;put down plate
+4347;4444;take tablecloth
+4415;4731;fold tablecloth
+4734;4827;put tablecloth into cupboard
+4859;4945;take container
+4937;5061;open container
+5098;5248;take pizza slice
+5288;5371;put pizza slice into container
+5387;5631;take pizza slice
+5761;5819;take knife
+5825;5885;put down knife
+5865;6148;cut pizza
+6235;6296;put pizza slice into container
+6771;6835;put down knife
+6892;6935;take lid
+6915;7065;put down lid
+6936;6999;close container
+7281;7341;turn on tap
+7346;7406;wash hand
+7372;7417;turn off tap
+7433;7493;take sponge
+7491;7529;squeeze sponge
+7580;7625;take washing up liquid
+7721;7826;put down washing up liquid
+7929;8312;wash knife
+8313;8378;take fork
+8339;8614;wash fork
+8606;8670;put down fork
+8660;8716;take pizza cutter
+8727;8804;turn on tap
+8768;8853;rinse pizza cutter
+8859;9225;wash pizza cutter
+9260;9307;put down pizza cutter
+9313;9357;take plate
+9344;10020;wash plate
+9999;10104;put down plate
+10080;10134;take spatula
+10144;10721;wash spatula
+10709;10794;put down spatula
+10828;10963;take tray
+10959;11524;wash tray
+11511;11555;put down tray
+11586;11653;take tray
+11654;12277;wash tray
+12270;12336;put down tray
+12360;12414;put down sponge
+12616;12684;take glass
+12757;12972;wash glass
+12964;13028;turn on tap
+13022;13764;rinse glass
+13789;13870;put glass into rack
+13915;13975;take spatula
+14019;14532;rinse spatula
+14538;14596;put spatula into rack.
+14589;14633;take knife
+14630;14674;rinse knife.
+14639;14883;wash knife.
+14712;14815;wash knife.
+14820;14896;rinse knife.
+15235;15265;put knife into rack.
+15264;15297;take fork.
+15294;15457;wash fork.
+15457;15545;rinse fork.
+15551;15606;take pizza cutter.
+15612;15966;rinse pizza cutter.
+15963;15993;put pizza cutter into rack.
+16029;16117;take tray.
+16148;17087;rinse tray.
+17095;17197;put tray into rack.
+17194;17243;take tray.
+17260;18141;rinse tray.
+18199;18275;put tray into rack
+18277;18309;take plate
+18315;18498;rinse plate
+18540;18776;wash plate
+18816;19109;rinse plate
+19126;19225;put plate into track
+19246;19605;wash sponge
+19636;19918;wash cloth
+19642;19791;take cloth
+19837;20101;squeeze cloth
+20133;20468;wipe counter
+20474;20893;wipe sink
+20920;21366;continue wiping sink
+21370;21469;squeeze cloth
+21435;21579;take onion
+21630;21706;turn on tap
+21720;22116;wash sink
+22064;22134;turn off tap
+22179;22303;squeeze cloth
+22389;22856;wipe cooker
+22907;22967;put down cloth
+23093;23138;open bin
+23114;23148;throw onion in
+23141;23181;close bin
+23292;23356;take cloth
+23311;23530;dry hands
+23596;23699;hand cloth
+23778;23841;take hand
+24088;24164;throw can into bin
+24221;24348;take bin
+24391;24578;put bin onto other bin
+24631;24829;take bins
+24823;25003;put down bins
+25089;25189;open bin
+25244;26310;close bag
+25422;26264;tie bag
+26267;26345;close bin
+26378;26700;put bin onto other bin
+26735;26878;open bin
+26884;27909;remove bag of the bin
+27946;28021;take bin out
+28041;29056;tie bag
+29131;29443;put bag into bin
+29526;30008;take garbage bag
+30168;30629;open bag
+30735;30840;open bin
+30962;31873;put bag into bin
+32047;32148;take lid
+32092;32271;close container
+32277;32490;take container and plate
+32512;32655;open fridge
+32786;32994;move things in the fridge
+33047;33152;put container into fridge
+33173;33323;put plate into fridge
+33344;33494;close fridge

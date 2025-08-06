@@ -1,0 +1,31 @@
+start_timestamp,stop_timestamp,start_frame,end_frame,narration,verb,noun
+00:00.844,00:04.177,21,100,A person picks up a bag of oats from the table and prepares to put it in a box.,pick up,oat
+00:04.177,00:08.247,100,201,The person places the bag of oats inside a green cardboard box.,place,oat
+00:08.247,00:10.917,201,267,The person closes the lid of the green cardboard box.,close,box
+00:10.917,00:12.117,267,297,A person walks to a white kitchen cabinet and opens it.,open,cabinet
+00:12.117,00:14.187,297,349,The person puts the box of oats into the kitchen cabinet.,put,box
+00:14.187,00:16.357,349,403,The person closes the kitchen cabinet door.,close,cabinet
+00:16.357,00:18.557,403,458,The person walks back to the wooden dining table.,walk,table
+00:18.557,00:20.827,458,515,A person picks up a dirty white mug and walks to the kitchen sink.,pick up,mug
+00:20.827,00:22.727,515,562,The person places the dirty mug in the sink and walks back to the table.,place,mug
+00:22.727,00:26.567,562,658,A person picks up a black placemat folds it and places it on the table.,fold,placemat
+00:26.567,00:28.797,658,714,The person picks up the folded placemat and walks towards a door.,pick up,placemat
+00:28.797,00:31.867,714,790,The person hangs the black placemat on a door handle.,hang,placemat
+00:31.867,00:35.467,790,880,The person walks back to the kitchen counter near the sink.,walk,counter
+00:35.467,00:39.137,880,972,A person picks up a bottle of dish soap and places it on the counter.,pick up,soap
+00:39.137,00:41.037,972,1019,The person grabs the tap handle and turns on the water.,turn on,tap
+00:41.037,00:48.477,1019,1205,The person uses a spoon to scrape the inside of the mug under running water.,wash,mug
+00:48.477,00:51.677,1205,1285,The person rinses the spoon under the running water.,rinse,spoon
+00:51.677,00:52.947,1285,1317,The person places the clean spoon into the dish drainer.,place,spoon
+00:52.947,01:02.117,1317,1546,The person rinses the inside and outside of the mug with running water.,rinse,mug
+01:02.117,01:03.757,1546,1587,The person places the clean mug in the dish drainer and turns off the tap.,place,mug
+01:03.757,01:04.957,1587,1617,The person looks down at the sink.,look,sink
+01:04.957,01:08.227,1617,1699,The person picks up a striped tea towel from a cabinet handle.,pick up,towel
+01:08.227,01:09.597,1699,1733,The person opens a kitchen drawer.,open,drawer
+01:09.597,01:11.397,1733,1778,The person takes a drinking glass out of the drawer.,take,glass
+01:11.397,01:13.227,1778,1829,The person walks to the wooden dining table carrying the glass.,walk,table
+01:13.227,01:15.197,1829,1873,The person places a glass bottle and the drinking glass on the table.,place,bottle
+01:15.197,01:21.597,1873,2033,The person pours water from the bottle into the glass.,pour,water
+01:21.597,01:25.297,2033,2126,The person stops pouring and closes the top of the bottle.,close,bottle
+01:25.297,01:31.397,2126,2283,The person picks up the glass and takes a sip of water.,drink,water
+01:31.397,01:33.097,2283,2336,The person places the glass back down on the table.,place,glass

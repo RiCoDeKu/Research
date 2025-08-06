@@ -1,0 +1,13 @@
+start_frame;stop_frame;narration
+0;303;SIL
+304;405;take_plate
+406;546;take_block
+547;783;fasten_screw
+784;897;take_block
+898;1176;fasten_screw
+1177;1284;take_block
+1285;1745;fasten_screw
+1746;1854;take_block
+1855;2069;fasten_screw
+2070;2378;tighten_screw
+2379;2519;SIL

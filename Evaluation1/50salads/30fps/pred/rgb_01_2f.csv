@@ -1,0 +1,9 @@
+start_frame;stop_frame;narration
+0;133;initial_scene_setup
+134;2199;prepare_dressing
+2200;3539;cut_cheese
+3540;6939;cut_and_mix_ingredients
+6940;7779;serve_salad
+7780;8499;add_topping
+8500;10179;eat_salad
+10180;12591;clean_up

@@ -1,0 +1,58 @@
+start_frame;stop_frame;narration
+0;205;The person stands in front of the table, observing the setup.
+206;253;The person reaches their right hand into the jar to retrieve a wooden bar.
+254;283;The person picks up a long wooden bar from the jar.
+284;307;The person moves the long wooden bar to the center of the table.
+308;333;The person reaches their left hand towards the silver container.
+334;368;The person picks up a small white circular piece, which appears to be the propeller base.
+369;423;The person brings the propeller base to the long wooden bar.
+424;583;The person inserts the propeller base into one end of the long wooden bar.
+584;633;The person reaches their left hand towards the left side of the table to pick up a wooden piece.
+634;663;The person picks up a cross-shaped wooden piece.
+664;698;The person brings the cross-shaped piece to the current assembly.
+699;733;The person aligns the cross-shaped piece with the long wooden bar.
+734;853;The person inserts the cross-shaped piece onto the long wooden bar.
+854;913;The person adjusts the position of the cross-shaped piece on the wooden bar.
+914;943;The person reaches their left hand into the bag of small colorful pegs.
+944;973;The person picks up a small red peg from the bag.
+974;1013;The person aligns the red peg with a hole in the cross-shaped piece.
+1014;1093;The person inserts the red peg into the cross-shaped piece.
+1094;1183;The person adjusts the inserted red peg.
+1184;1243;The person reaches their left hand into the bag of small colorful pegs.
+1244;1263;The person picks up a small orange peg from the bag.
+1264;1313;The person aligns the orange peg with a hole in the cross-shaped piece.
+1314;1393;The person inserts the orange peg into the cross-shaped piece.
+1394;1423;The person reaches their left hand into the bag of small colorful pegs.
+1424;1443;The person picks up a small blue peg from the bag.
+1444;1473;The person aligns the blue peg with a hole in the cross-shaped piece.
+1474;1573;The person inserts the blue peg into the cross-shaped piece.
+1574;1693;The person adjusts the blue peg and rotates the partially assembled airplane.
+1694;1753;The person reaches their left hand towards the left side of the table to pick up a wooden piece.
+1754;1783;The person picks up a small wooden block.
+1784;1803;The person brings the small wooden block to the assembly.
+1804;1903;The person attaches the small wooden block to the back end of the main wooden bar to form the tail.
+1904;1953;The person reaches their left hand into the bag of small colorful pegs.
+1954;1983;The person picks up a small yellow peg from the bag.
+1984;2033;The person aligns the yellow peg with a hole in the small wooden block attached to the tail.
+2034;2113;The person inserts the yellow peg into the tail block.
+2114;2153;The person adjusts the inserted yellow peg.
+2154;2193;The person reaches their left hand into the bag of small colorful pegs.
+2194;2223;The person picks up another small yellow peg from the bag.
+2224;2263;The person aligns the yellow peg with a hole in the cross-shaped piece.
+2264;2353;The person inserts the yellow peg into the cross-shaped piece.
+2354;2393;The person reaches their left hand into the bag of small colorful pegs.
+2394;2413;The person picks up another small blue peg from the bag.
+2414;2463;The person aligns the blue peg with a hole in the cross-shaped piece.
+2464;2533;The person inserts the blue peg into the cross-shaped piece.
+2534;2583;The person sets down the partially assembled airplane on the table.
+2584;2603;The person picks up the small red wooden stick, which is a hammer.
+2604;2643;The person uses the hammer to tap the first yellow peg into place.
+2644;2703;The person uses the hammer to tap the second yellow peg into place.
+2704;2733;The person uses the hammer to tap the first blue peg into place.
+2734;2763;The person uses the hammer to tap the red peg into place.
+2764;2803;The person uses the hammer to tap the orange peg into place.
+2804;2833;The person uses the hammer to tap the second blue peg into place.
+2834;2863;The person places the hammer back on the table.
+2864;2903;The person picks up the fully assembled airplane and inspects it.
+2904;2943;The person places the assembled airplane back on the table.
+2944;3030;The person stands still, indicating the completion of the task.

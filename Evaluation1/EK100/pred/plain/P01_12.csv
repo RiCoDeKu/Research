@@ -1,0 +1,70 @@
+start_timestamp,stop_timestamp,start_frame,end_frame,narration,verb,noun
+00:00.000,00:01.300,0,39,A person turns a dimmer switch knob to turn on the lights in the room.,turn,knob
+00:01.300,00:02.166,39,65,A person turns away from the wall after turning on the light.,turn,away
+00:02.166,00:03.500,65,105,The person walks into the kitchen area.,walk,kitchen
+00:06.833,00:09.966,205,299,The person picks up a bundle of clean utensils from a dish drainer next to the sink.,pick up,utensils
+00:09.966,00:12.033,299,361,The person walks over to a wooden kitchen island.,walk,island
+00:12.033,00:13.100,361,393,The person opens the top drawer of the kitchen island.,open,drawer
+00:13.100,00:16.866,393,506,The person places a set of silver tongs into the utensil tray in the drawer.,place,tongs
+00:16.866,00:18.900,506,567,The person places a metal serving spoon into the utensil tray in the drawer.,place,spoon
+00:18.900,00:20.500,567,615,The person places a black spatula into the utensil tray in the drawer.,place,spatula
+00:20.500,00:22.033,615,661,The person places a white pizza cutter into the utensil tray in the drawer.,place,cutter
+00:22.033,00:23.700,661,711,The person places a long serrated knife into the utensil tray in the drawer.,place,knife
+00:23.700,00:25.266,711,758,The person places a wooden spatula into the utensil tray in the drawer.,place,spatula
+00:25.266,00:26.966,758,809,The person places a knife with a wooden handle into the utensil tray in the drawer.,place,knife
+00:26.966,00:28.166,809,845,The person closes the utensil drawer.,close,drawer
+00:28.166,00:29.800,845,894,The person walks back to the sink area.,walk,sink
+00:29.800,00:31.700,894,951,The person picks up a green chopping board from the dish drainer.,pick up,board
+00:31.700,00:33.200,951,996,The person opens a white cabinet door under the counter.,open,cabinet
+00:33.200,00:35.966,996,1079,The person slides the green chopping board into the cabinet.,slide,board
+00:35.966,00:38.200,1079,1146,The person closes the two white cabinet doors under the counter.,close,cabinet
+00:38.200,00:41.600,1146,1248,The person picks up a metal baking tray from the dish drainer.,pick up,tray
+00:41.600,00:42.500,1248,1275,The person opens the white cabinet doors under the counter again.,open,cabinet
+00:42.500,00:45.833,1275,1375,The person slides the baking tray into the cabinet.,slide,tray
+00:45.833,00:48.566,1375,1457,The person closes the two white cabinet doors.,close,cabinet
+00:48.566,00:50.133,1457,1504,The person picks up a black frying pan from the dish drainer.,pick up,pan
+00:50.133,00:51.866,1504,1556,The person opens the white cabinet doors one more time.,open,cabinet
+00:51.866,00:54.133,1556,1624,The person places a sheet of brown baking paper inside the frying pan.,place,paper
+00:54.133,00:58.200,1624,1746,The person places the frying pan with the paper into the cabinet.,place,pan
+00:58.200,00:59.733,1746,1792,The person closes the white cabinet doors.,close,cabinet
+00:59.733,01:01.600,1792,1848,The person picks up a clear glass bowl from the dish drainer.,pick up,bowl
+01:01.600,01:02.500,1848,1875,The person opens a white cabinet door next to the stove.,open,cabinet
+01:02.500,01:05.100,1875,1953,The person places the glass bowl onto a shelf inside the cabinet.,place,bowl
+01:05.100,01:07.766,1953,2033,The person closes the cabinet door.,close,cabinet
+01:07.766,01:09.300,2033,2079,The person picks up a white mug from the dish drainer and walks towards the dining table.,pick up,mug
+01:09.300,01:10.066,2079,2102,The person places the white mug on the wooden dining table.,place,mug
+01:10.066,01:11.733,2102,2152,The person walks back to the sink.,walk,sink
+01:11.733,01:16.400,2152,2292,The person picks up a stack of clean white plates from the dish drainer.,pick up,plates
+01:16.400,01:18.066,2292,2342,The person opens a white drawer containing other plates.,open,drawer
+01:18.066,01:20.900,2342,2427,The person carefully places the stack of plates into the drawer.,place,plates
+01:20.900,01:22.500,2427,2475,The person closes the plate drawer.,close,drawer
+01:22.500,01:24.366,2475,2531,The person picks up two glass cups from the dish drainer.,pick up,cups
+01:24.366,01:25.100,2531,2553,The person opens the dish drawer again.,open,drawer
+01:25.100,01:30.400,2553,2712,The person places the two glass cups into the drawer.,place,cups
+01:30.400,01:32.400,2712,2772,The person closes the dish drawer.,close,drawer
+01:32.400,01:36.566,2772,2897,The person takes a wooden rolling pin from an under-counter cabinet and walks to the island.,take,pin
+01:36.566,01:38.200,2897,2946,The person opens the utensil drawer.,open,drawer
+01:38.200,01:48.100,2946,3243,The person rearranges items and places the rolling pin in the drawer.,place,pin
+01:48.100,01:49.800,3243,3294,The person closes the utensil drawer.,close,drawer
+01:49.800,01:52.266,3294,3368,The person takes a folded black cloth from a shelf on the kitchen island.,take,cloth
+01:52.266,01:55.333,3368,3460,The person unfolds the black cloth and places it on the dining table as a placemat.,place,placemat
+01:55.333,01:56.966,3460,3509,The person moves the white mug onto the black placemat.,move,mug
+01:56.966,01:58.333,3509,3550,The person walks back to the utensil drawer.,walk,drawer
+01:58.333,02:00.066,3550,3602,The person takes a spoon from the utensil drawer and closes it.,take,spoon
+02:00.066,02:01.333,3602,3640,The person places the spoon on the placemat next to the mug.,place,spoon
+02:01.333,02:03.200,3640,3696,The person walks over to a silver refrigerator.,walk,refrigerator
+02:03.200,02:04.200,3696,3726,The person opens the door of the refrigerator.,open,refrigerator
+02:04.200,02:06.500,3726,3795,The person takes a small carton of milk from the refrigerator door shelf.,take,milk
+02:06.500,02:10.133,3795,3904,The person takes a round container with a blue lid from a shelf inside the refrigerator.,take,container
+02:10.133,02:11.233,3904,3937,The person closes the refrigerator door.,close,refrigerator
+02:11.233,02:13.933,3937,4018,The person walks to the table and puts the milk carton and container down.,walk,table
+02:13.933,02:18.500,4018,4155,The person picks up the milk carton tears open the spout and holds it over the mug.,open,carton
+02:18.500,02:23.900,4155,4317,The person pours the milk from the carton into the white mug.,pour,milk
+02:23.900,02:27.100,4317,4413,The person closes the milk carton and places it on a nearby desk.,place,carton
+02:27.100,02:29.366,4413,4481,The person walks to the under-counter cabinet.,walk,cabinet
+02:29.366,02:32.400,4481,4572,The person takes a green box of cereal from the cabinet.,take,cereal
+02:32.400,02:34.233,4572,4627,The person walks back to the dining table with the cereal box.,walk,table
+02:34.233,02:38.200,4627,4746,The person opens the top of the cereal box and pulls out the plastic bag of cereal inside.,open,box
+02:38.200,02:42.800,4746,4884,The person tears open the plastic bag of cereal.,open,bag
+02:42.800,02:49.866,4884,5096,The person pours the cereal from the bag into the mug of milk.,pour,cereal
+02:49.866,02:52.133,5096,5164,The person places the open bag of cereal on the table.,place,bag

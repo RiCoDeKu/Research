@@ -1,0 +1,42 @@
+start_frame;stop_frame;narration
+0;394;The person is standing still with hands resting on the table, observing the setup before beginning the task.
+395;424;The person extends their right hand towards the clear container located on the right side of the table.
+425;455;The person grasps and lifts a long, rectangular wooden piece from the container.
+456;470;The person brings the long wooden piece to the center of the table.
+471;513;The person extends their left hand towards the white cylindrical piece on the left side of the table.
+514;525;The person grasps and lifts the white cylindrical piece.
+526;540;The person moves the white cylindrical piece towards the center of the table.
+541;701;The person aligns the white cylindrical piece with one end of the long wooden piece.
+702;880;The person pushes the white cylindrical piece onto the end of the long wooden piece, securely connecting them.
+881;959;The person moves their left hand towards the back-left section of the table.
+960;1003;The person grasps and lifts a shorter wooden piece with multiple holes, intended as a crossbar.
+1004;1020;The person brings the crossbar to the center of the table.
+1021;1069;The person aligns the crossbar perpendicularly to the main wooden rod assembly.
+1070;1100;The person pushes the crossbar onto the white cylindrical piece, forming a T-shape.
+1101;1117;The person reaches their left hand towards the clear plastic bag on the left.
+1118;1160;The person picks up a small blue peg from the bag.
+1161;1170;The person brings the blue peg towards the assembled wooden structure.
+1171;1183;The person positions the blue peg over a designated hole in the upper crossbar.
+1184;1460;The person pushes the blue peg into the hole, securing it firmly within the wooden crossbar.
+1461;1573;The person repositions their hands and reaches towards the back-left area of the table.
+1574;1630;The person grasps and lifts another short wooden piece with multiple holes.
+1631;1690;The person brings the third wooden piece towards the central assembly.
+1691;1723;The person aligns the third wooden piece below the first crossbar.
+1724;1930;The person pushes the third wooden piece onto the main rod, creating a second crossbar.
+1931;2040;The person adjusts the two crossbars on the main rod, ensuring they are properly spaced and aligned.
+2041;2170;The person reaches back into the plastic bag and picks up a second small blue peg.
+2171;2203;The person positions the second blue peg over a hole in the lower crossbar.
+2204;2370;The person pushes the second blue peg into the hole, securing it firmly.
+2371;2473;The person reaches their left hand towards the small black container holding orange pegs and rings.
+2474;2503;The person grasps and lifts an orange peg from the container.
+2504;2530;The person brings the orange peg towards the assembled wooden structure.
+2531;2559;The person positions the orange peg over a hole in the lower crossbar.
+2560;2670;The person pushes the orange peg into the hole next to the blue peg, securing it.
+2671;2700;The person reaches their left hand back into the small black container.
+2701;2730;The person grasps and lifts a red ring from the container.
+2731;2750;The person brings the red ring towards the bottom of the assembly.
+2751;2773;The person aligns the red ring with the base of the white cylindrical piece.
+2774;2900;The person pushes the red ring onto the blue portion of the cylindrical piece, securing it in place.
+2901;2999;The person moves their right hand towards the red tool positioned on the table.
+3000;3013;The person grasps and lifts the red tool.
+3014;3030;The person brings the red tool towards the assembled structure, preparing for its use.

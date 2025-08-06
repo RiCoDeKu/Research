@@ -1,0 +1,73 @@
+start_frame;stop_frame;narration
+0;26;The static scene displays various salad ingredients and cooking utensils arranged on a white surface, awaiting preparation.
+27;30;The person's right hand enters the frame, reaching towards the pepper mill on the table.
+31;36;The person picks up the pepper mill, holding it over the blue mixing bowl.
+37;71;The person grinds pepper into the bowl with both hands.
+72;87;The person places the pepper mill back onto the table.
+88;94;The person's right hand moves to pick up the salt shaker.
+95;100;The person picks up the salt shaker, positioning it over the bowl.
+101;119;The person shakes salt into the bowl.
+120;154;The person places the salt shaker back onto the table.
+155;226;The scene remains static with no visible human interaction, as the ingredients are laid out.
+227;240;The person's hands enter the frame, approaching the cutting board and knife block.
+241;248;The person picks up a knife from the knife block.
+249;266;The person reaches for and picks up the packaged block of cheese.
+267;276;The person removes the cheese from its packaging.
+277;321;The person uses the knife to make initial slices on the block of cheese.
+322;338;The person separates the first cut piece of cheese from the main block.
+339;360;The person repositions the cheese slice on the cutting board.
+361;411;The person begins dicing the cheese slice into smaller, uniform pieces.
+412;481;The person continues to finely dice the cheese on the cutting board.
+482;506;The person scrapes the diced cheese from the cutting board directly into the blue bowl.
+507;521;The person returns the knife to the cutting board.
+522;526;The person picks up a red tomato from the left side of the table.
+527;551;The person slices the tomato in half on the cutting board.
+552;561;The person repositions one half of the tomato for further slicing.
+562;611;The person slices the tomato half into smaller segments.
+612;666;The person continues to chop the tomato segments into small, diced pieces.
+667;736;The person uses the knife to push the chopped tomato from the cutting board into the blue bowl.
+737;756;The person scrapes the remaining small tomato bits from the board into the bowl, ensuring all pieces are collected.
+757;776;The person reaches into the plastic bag to retrieve a handful of lettuce.
+777;816;The person begins roughly chopping the lettuce on the cutting board.
+817;866;The person continues to finely chop the lettuce into smaller shreds.
+867;911;The person sweeps the first batch of chopped lettuce into the blue bowl.
+912;961;The person adds the remaining chopped lettuce from the cutting board to the bowl.
+962;996;The person uses the knife to gather and push any last scattered pieces of lettuce into the bowl.
+997;1006;The person pauses, with hands momentarily out of the main cutting area.
+1007;1011;The person picks up the vegetable peeler from the right side of the cutting board.
+1012;1016;The person picks up the cucumber from the left side of the table.
+1017;1096;The person peels the skin off the cucumber using the peeler.
+1097;1111;The person places the peeler down on the cutting board.
+1112;1141;The person uses the knife to slice off a segment from the end of the peeled cucumber.
+1142;1211;The person cuts the cucumber into several round slices on the cutting board.
+1212;1276;The person continues to slice the remaining cucumber into rounds.
+1277;1341;The person slices the last portion of the cucumber into rounds.
+1342;1411;The person begins dicing the cucumber slices into smaller, bite_sized pieces.
+1412;1456;The person continues to finely dice the cucumber on the cutting board.
+1457;1491;The person transfers all the diced cucumber from the cutting board into the blue bowl.
+1492;1506;The person picks up the bottle of olive oil from the lower right side of the table.
+1507;1521;The person removes the cap from the olive oil bottle.
+1522;1536;The person pours olive oil from the bottle into the salad bowl.
+1537;1546;The person replaces the cap on the olive oil bottle.
+1547;1561;The person places the olive oil bottle back onto the table.
+1562;1576;The person picks up the bottle of vinegar from the lower right side of the table.
+1577;1596;The person removes the cap from the vinegar bottle.
+1597;1606;The person pours vinegar from the bottle into the salad bowl.
+1607;1621;The person replaces the cap on the vinegar bottle.
+1622;1646;The person places the vinegar bottle back onto the table.
+1647;1656;The person briefly pauses before adding more seasonings.
+1657;1676;The person picks up a spice shaker and adds seasoning to the salad.
+1677;1681;The person places the first spice shaker down.
+1682;1696;The person picks up another spice shaker and adds more seasoning to the salad.
+1697;1736;The person places the last spice shaker back onto the table.
+1737;1741;The person picks up a black serving spoon from the right side of the table.
+1742;1866;The person thoroughly mixes all the ingredients together in the blue salad bowl using the spoon.
+1867;1871;The person places the serving spoon back into the blue bowl.
+1872;1876;The person picks up an empty blue plate from the right side of the table.
+1877;1951;The person scoops portions of the mixed salad from the bowl onto the plate using the spoon.
+1952;1966;The person places the plate filled with salad down on the table.
+1967;1996;The person moves the cutting board, clearing the center of the workspace.
+1997;2011;The person picks up the pepper mill.
+2012;2031;The person puts the pepper mill back into its original position.
+2032;2046;The person puts the salt shaker back into its original position.
+2047;2072;The person removes the knife and peeler from the cutting board, indicating the completion of kitchen tasks and tidying up.

@@ -1,0 +1,31 @@
+start_frame;end_frame;narration
+36;105;take cereal bag
+111;253;fold cereal bag
+274;456;put cereal bag into cereal box
+457;606;close cereal box
+689;760;open cupboard
+790;920;put cereal box into cupboard
+942;1006;close cupboard
+1077;1131;take cup and spoon
+1177;1222;put down cup and spoon
+1285;1353;take table cloth
+1815;1928;hang table cloth
+2119;2181;take washing up liquid
+2184;2301;pour washing op liquid
+2341;2382;put down washing up liquid
+2396;2524;turn on tap
+2517;2912;wash cup and spoon
+2951;3093;rinse spoon
+3093;3135;put down spoon
+3158;3588;rinse cup
+3654;3718;turn off tap
+3772;3836;put down cup
+3897;4111;dry hands
+4146;4205;open cupboard
+4211;4257;take glass
+4263;4303;close cupboard
+4356;4432;put down glass
+4393;4458;take bottle
+4465;4903;pour water into glass
+4908;5438;drink water
+5429;5543;put down glass

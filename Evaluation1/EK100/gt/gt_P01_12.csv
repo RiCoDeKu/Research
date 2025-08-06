@@ -1,0 +1,63 @@
+start_frame;end_frame;narration
+407;630;take cutlery
+708;806;open drawer
+824;1003;put down fork
+1004;1083;put down knife
+1090;1174;put down spoon
+1180;1264;put down spatula
+1270;1372;put down pizza cutter
+1378;1489;put down tong
+1489;1570;put down knife
+1568;1649;put down spatula
+1636;1678;close drawer
+1747;1919;take cutting board
+1881;1945;open cupboard
+1951;2197;put cutting board into cupboard
+2284;2497;take trays
+2503;2759;put trays into cupboard
+2882;3003;take pan
+3009;3505;put pan into cupboard
+3612;3825;take bowls
+3708;3786;open cupboard
+3754;3888;put bowls into cupboard
+3892;3963;open cupboard
+3964;4029;take out
+4025;4058;close cupboard
+4050;4125;close cupboard
+4135;4189;pull down cup
+4275;4560;take plates
+4601;4702;open cupboard
+4720;4866;put plates into cupboard
+4957;5073;take measuring cups and glass
+5079;5183;open cupboard
+5183;5461;put cup into cupboard
+5257;5416;put measuring cup into cupboard
+5447;5523;close cupboard
+5560;5635;take rolling bin
+5610;5761;close cupboard
+5819;5947;open drawer
+5950;6463;put rolling pin into drawer
+6483;6552;close drawer
+6611;6700;take tablecloth
+6706;6826;unfold tablecloth
+6847;6937;pull down tablecloth
+6948;7023;put cup onto tablecloth
+7066;7164;take spoon
+7182;7237;put down spoon
+7380;7443;open fridge
+7449;7597;take soy milk
+7651;7756;take container
+7758;7894;close fridge
+7961;8016;put down container
+8047;8269;shake soy milk
+8271;8336;open milk
+8310;8655;pour milk
+8661;8766;close milk
+8772;8832;put down soya milk
+8972;9017;open cupboard
+9068;9248;take cereals
+9218;9293;put down cereals
+9299;9404;open cereal box
+9425;9677;unfold cereal bag
+9746;10166;pour cereals
+10232;10309;put down cereals

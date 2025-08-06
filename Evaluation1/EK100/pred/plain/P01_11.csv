@@ -1,0 +1,43 @@
+start_timestamp,stop_timestamp,start_frame,end_frame,narration,verb,noun
+00:00.15,00:02.13,38,56,A person picks up a patterned plate from a wooden table and walks toward the stove.,pick up,plate
+00:02.13,00:15.10,56,385,The person carefully peels the baking paper off a half-pizza resting on a baking tray on the stove and places the pizza on the plate.,place,pizza
+00:15.10,00:33.07,385,827,The person moves to a second baking tray and transfers the other half-pizza onto the plate combining the two halves.,transfer,pizza
+00:33.07,00:46.11,827,1153,The person takes the last piece of pizza off the baking paper and puts the empty paper on another sheet.,take,pizza
+00:46.11,00:50.23,1153,1261,The person crumples both sheets of used baking paper into a ball and walks towards the trash can.,crumple,paper
+00:50.23,00:54.12,1261,1355,The person lifts the lid of a metal trash can and throws the crumpled baking paper inside before closing it.,throw,paper
+00:54.12,01:03.13,1355,1581,The person picks up two empty baking trays and a spatula and places them in the kitchen sink.,place,baking tray
+01:03.13,01:09.12,1581,1725,The person walks to the dining table picks up a dirty plate with a knife and fork and carries it to the kitchen counter.,pick up,plate
+01:09.12,01:10.19,1725,1764,The person places the dirty plate on the counter next to the sink.,place,plate
+01:10.19,01:19.10,1764,1975,The person picks up a black placemat from the table folds it neatly and puts it in a storage unit.,fold,placemat
+01:19.10,01:25.01,1975,2126,The person gets a white bowl with a blue lid removes the lid and places both items on the kitchen counter.,remove,lid
+01:25.01,01:36.06,2126,2401,The person transfers a slice of pizza from the large plate into the white bowl for storage.,transfer,pizza
+01:36.06,01:45.10,2401,2625,The person uses a knife to cut the pizza on the plate into smaller more manageable slices.,cut,pizza
+01:45.10,01:54.14,2625,2859,The person moves the remaining pizza slices from the plate into the white bowl with the other slice.,move,pizza
+01:54.14,01:58.16,2859,2959,The person places the blue lid securely onto the white bowl to seal the leftover pizza.,place,lid
+01:58.16,02:01.10,2959,3025,The person carries the now empty plate to the counter by the sink.,carry,plate
+02:01.10,02:08.24,3025,3210,The person turns on the tap wets a yellow sponge and then applies dish soap to it.,apply,soap
+02:08.24,02:35.01,3210,3876,The person thoroughly washes a pizza cutter a knife and a fork with the soapy sponge.,wash,cutlery
+02:35.01,02:47.19,3876,4194,The person scrubs the dirty white and red plate clean using the soapy sponge.,wash,plate
+02:47.19,03:01.01,4194,4526,The person washes the black spatula with the soapy sponge.,wash,spatula
+03:01.01,03:25.12,4526,5025,The person scrubs both sides of two grey baking trays with the soapy sponge.,wash,baking tray
+03:25.12,03:32.09,5025,5204,The person takes a glass from the dining table and rinses their hands and the sponge.,take,glass
+03:32.09,03:51.08,5204,5673,The person washes the glass with the sponge and then thoroughly rinses it under the running tap water.,wash,glass
+03:51.08,04:27.00,5673,6525,The person systematically rinses the soap off the spatula cutlery and pizza cutter.,rinse,cutlery
+04:27.00,04:51.24,6525,7149,The person rinses both baking trays under the tap and places them on the counter.,rinse,baking tray
+04:51.24,05:21.04,7149,7951,The person rinses the plate and then places it in the dish rack to dry.,rinse,plate
+05:21.04,05:34.24,7951,8271,The person rinses the sponge and a blue cloth under the tap.,rinse,sponge
+05:34.24,06:21.02,8271,9502,The person uses the damp cloth to thoroughly wipe down the wooden counter and the metal sink area.,wipe,counter
+06:21.02,06:28.08,9502,9713,The person uses the cloth to wipe the black stovetop clean.,wipe,stovetop
+06:28.08,06:36.10,9713,9985,The person picks up a can and other items from the table.,pick up,can
+06:36.10,06:55.24,9985,10389,The person sorts the recycling emptying items from a green bin into a larger black bin.,sort,recycling
+06:55.24,06:58.08,10389,10453,The person places the now-empty green bin on the floor.,place,bin
+06:58.08,07:25.01,10453,10926,The person takes the liner out of the food waste caddy ties it puts a new liner in and closes the lid.,take out,liner
+07:25.01,07:44.21,10926,11386,The person removes the lid from the main trash can and takes out the full black trash bag.,take out,bag
+07:44.21,08:04.14,11386,11859,The person ties the full trash bag closed.,tie,bag
+08:04.14,08:08.14,11859,11989,The person places the tied trash bag into the recycling bin.,place,bag
+08:08.14,08:12.09,11989,12094,The person places the food waste caddy into the recycling bin as well.,place,caddy
+08:12.09,08:52.16,12094,12789,The person unfolds a new black trash bag and fits it into the metal trash can.,fit,bag
+08:52.16,08:53.23,12789,12822,The person places the lid back on the trash can.,place,lid
+08:53.23,09:02.08,12822,13043,The person picks up the container of leftover pizza and the plate with the remaining slices.,pick up,pizza
+09:02.08,09:17.09,13043,13424,The person opens the refrigerator and places the plate and the container inside on a shelf.,place,pizza
+09:17.09,09:18.18,13424,13463,The person closes the refrigerator door.,close,refrigerator door

@@ -1,0 +1,14 @@
+start_frame;stop_frame;narration
+0;185;SIL
+186;301;take_plate
+302;492;insert_pin
+493;579;take_ring
+580;719;take_part
+720;1041;insert_screw
+1042;1290;fasten_nut
+1291;1389;drop
+1390;1533;insert_screw
+1534;1744;fasten_nut
+1745;1893;pickup
+1894;2060;balance_part
+2061;2189;SIL

@@ -1,0 +1,48 @@
+start_frame;stop_frame;narration
+0;309;The person stands still behind the table with their hands clasped together, waiting to start the task.
+310;376;The person reaches their right hand towards the right side of the table and picks up the yellow base.
+377;402;The person brings the yellow base towards the center of the table.
+403;439;The person places the yellow base flat on the table in front of them.
+440;478;The person reaches their right hand into the clear container on the right and picks up the first wooden block.
+479;499;The person brings the first wooden block over to the yellow base.
+500;519;The person adjusts the orientation of the first wooden block.
+520;578;The person aligns and attaches the first wooden block to the short side of the yellow base.
+579;610;The person reaches their left hand to the transparent bag on the left and picks up a yellow peg.
+611;630;The person brings the yellow peg to the first attached wooden block.
+631;667;The person inserts the yellow peg into the top hole of the first wooden block.
+668;768;The person uses both hands to push the first yellow peg fully into the hole, securing the first wooden block.
+769;808;The person adjusts the position of the partially assembled structure on the table.
+809;856;The person reaches their right hand into the clear container and picks up the second wooden block.
+857;880;The person brings the second wooden block over to the yellow base.
+881;909;The person adjusts the orientation of the second wooden block.
+910;940;The person aligns and attaches the second wooden block to the yellow base.
+941;984;The person reaches their left hand to the transparent bag and picks up a second yellow peg.
+985;1009;The person brings the second yellow peg to the second wooden block.
+1010;1047;The person inserts the second yellow peg into the top hole of the second wooden block.
+1048;1178;The person uses both hands to push the second yellow peg fully into the hole.
+1179;1209;The person slightly adjusts the position of the assembly.
+1210;1259;The person reaches their right hand into the clear container and picks up the third wooden block.
+1260;1280;The person brings the third wooden block over to the yellow base.
+1281;1299;The person adjusts the orientation of the third wooden block.
+1300;1359;The person aligns and attaches the third wooden block to the yellow base.
+1360;1409;The person reaches their left hand to the transparent bag and picks up a third yellow peg.
+1410;1439;The person brings the third yellow peg to the third wooden block.
+1440;1489;The person inserts the third yellow peg into the top hole of the third wooden block.
+1490;1539;The person uses both hands to push the third yellow peg fully into the hole.
+1540;1599;The person slightly adjusts the position of the assembly.
+1600;1649;The person reaches their right hand into the clear container and picks up the fourth wooden block.
+1650;1679;The person brings the fourth wooden block over to the yellow base.
+1680;1699;The person adjusts the orientation of the fourth wooden block.
+1700;1779;The person aligns and attaches the fourth wooden block to the yellow base.
+1780;1819;The person reaches their left hand to the transparent bag and picks up a fourth yellow peg.
+1820;1859;The person brings the fourth yellow peg to the fourth wooden block.
+1860;1929;The person inserts the fourth yellow peg into the top hole of the fourth wooden block.
+1930;2029;The person uses both hands to push the fourth yellow peg fully into the hole.
+2030;2109;The person lifts the partially assembled structure and rotates it to inspect its stability.
+2110;2159;The person places the structure back down on the table and picks up the red mallet.
+2160;2219;The person uses the red mallet to hammer down the first yellow peg into the base.
+2220;2269;The person uses the red mallet to hammer down the second yellow peg into the base.
+2270;2319;The person uses the red mallet to hammer down the third yellow peg into the base.
+2320;2379;The person uses the red mallet to hammer down the fourth yellow peg into the base.
+2380;2419;The person places the red mallet back down on the table.
+2420;2520;The person lifts the completed assembly and holds it up to present it.

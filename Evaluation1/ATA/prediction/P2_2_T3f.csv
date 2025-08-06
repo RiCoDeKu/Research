@@ -1,0 +1,67 @@
+start_frame;stop_frame;narration
+0;193;The person stands still at the table.
+194;227;The person reaches their right hand towards the yellow pegboard on the right side of the table.
+228;251;The person grasps and begins to lift the yellow pegboard.
+252;277;The person lifts the yellow pegboard off the table.
+278;297;The person moves the yellow pegboard towards the center of the table.
+298;316;The person places the yellow pegboard flat on the table.
+317;333;The person reaches their left hand towards the red peg tool on the black stand to the left.
+334;349;The person picks up the red peg tool.
+350;429;The person moves the red peg tool towards the yellow pegboard.
+430;460;The person inserts the red peg tool into a hole on the yellow pegboard.
+461;497;The person firmly pushes the red peg tool into the pegboard.
+498;537;The person reaches their right hand towards the white circular block on the table.
+538;577;The person picks up the white circular block.
+578;594;The person positions the white circular block above the red peg tool.
+595;635;The person places the white circular block onto the red peg tool.
+636;667;The person reaches their left hand towards the wooden stick with holes from the black stand.
+668;700;The person picks up the wooden stick.
+701;729;The person moves the wooden stick towards the white circular block on the pegboard.
+730;752;The person attempts to align the wooden stick with the white circular block and the red peg tool.
+753;774;The person reaches their left hand towards the plastic bag containing colorful pegs.
+775;802;The person picks up the plastic bag.
+803;827;The person opens the plastic bag.
+828;857;The person takes out a blue peg from the plastic bag.
+858;886;The person holds both the blue peg and the wooden stick.
+887;909;The person positions the blue peg over a hole in the wooden stick.
+910;941;The person adjusts the blue peg and wooden stick for insertion.
+942;969;The person inserts the blue peg into one end of the wooden stick.
+970;1011;The person firmly pushes the blue peg into the wooden stick.
+1012;1049;The person adjusts their grip on the wooden stick with the inserted blue peg.
+1050;1087;The person reaches their left hand towards the container of red rings.
+1088;1111;The person picks up a red ring from the container.
+1112;1144;The person moves the red ring towards the blue peg on the wooden stick.
+1145;1175;The person attempts to place the red ring onto the blue peg.
+1176;1200;The person adjusts the red ring's position on the blue peg.
+1201;1234;The person pushes the red ring down onto the blue peg.
+1235;1262;The person secures the first red ring onto the blue peg.
+1263;1294;The person picks up a second red ring from the container.
+1295;1317;The person aligns the second red ring with the blue peg.
+1318;1349;The person pushes the second red ring onto the blue peg.
+1350;1372;The person secures the second red ring onto the blue peg.
+1373;1414;The person reaches their left hand into the plastic bag for another peg.
+1415;1442;The person takes out an orange peg from the plastic bag.
+1443;1479;The person holds the orange peg and the wooden stick.
+1480;1510;The person inserts the orange peg into the other end of the wooden stick.
+1511;1533;The person pushes the orange peg securely into the wooden stick.
+1534;1560;The person repositions the wooden stick assembly with both pegs.
+1561;1598;The person picks up a red ring from the container.
+1599;1632;The person moves the red ring towards the orange peg on the wooden stick.
+1633;1659;The person places the red ring onto the orange peg.
+1660;1689;The person pushes the red ring onto the orange peg.
+1690;1725;The person secures the red ring on the orange peg.
+1726;1750;The person completes the assembly of the wooden stick with two pegs and three rings.
+1751;1779;The person moves the assembled wooden stick from their hands towards the table.
+1780;1811;The person places the assembled wooden stick down on the table.
+1812;1845;The person picks up the red peg tool from the yellow pegboard, leaving the white block behind.
+1846;1875;The person places the red peg tool on the table near its original position.
+1876;1905;The person picks up the blue peg from the wooden stick, leaving the rings on the stick.
+1906;1930;The person places the blue peg into a different empty hole on the yellow pegboard.
+1931;1960;The person secures the blue peg into the yellow pegboard.
+1961;1990;The person picks up the orange peg from the wooden stick, leaving the ring on the stick.
+1991;2015;The person places the orange peg into another empty hole on the yellow pegboard.
+2016;2045;The person secures the orange peg into the yellow pegboard.
+2046;2070;The person picks up the red peg tool from the table.
+2071;2099;The person places the red peg tool into the last empty hole on the yellow pegboard.
+2100;2125;The person secures the red peg tool into the yellow pegboard.
+2126;2190;The person stands still, observing the final arrangement of pegs on the pegboard.

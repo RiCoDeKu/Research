@@ -1,0 +1,65 @@
+start_frame;stop_frame;narration
+0;193;The person stands in front of the black table, observing the items.
+194;228;The person reaches their right hand towards the white cylindrical piece on the table.
+229;254;The person grasps the white cylindrical piece with their right hand.
+255;280;The person reaches their left hand towards the yellow propeller piece in the plastic bag.
+281;302;The person grasps the yellow propeller piece with their left hand.
+303;339;The person brings the yellow propeller and white cylindrical piece together, aligning them for assembly.
+340;370;The person attaches the yellow propeller to the white cylindrical piece, forming a sub-assembly.
+371;401;The person reaches their right hand into the clear jar to retrieve a wooden main body piece.
+402;428;The person grasps and pulls out a wooden main body piece from the jar with their right hand.
+429;461;The person brings the main body piece and the propeller sub-assembly together, aligning them.
+462;492;The person attaches the propeller sub-assembly to the main body piece.
+493;523;The person holds and slightly adjusts the attached propeller assembly on the main body.
+524;583;The person briefly places the partially assembled toy on the table and reaches for a small white piece from the jar.
+584;607;The person grasps the small white piece from the jar.
+608;669;The person attempts to attach the small white piece to the main body, realizing it's incorrect.
+670;714;The person reaches for a small yellow cap from the table.
+715;748;The person grasps the small yellow cap.
+749;775;The person attaches the small yellow cap to the small white cylindrical piece.
+776;802;The person picks up the existing propeller assembly.
+803;863;The person re-adjusts and tightens the connection of the propeller assembly to the main body.
+864;926;The person holds and examines the partially assembled toy, which now includes the main body and propeller.
+927;957;The person reaches their left hand into the black box to retrieve a cross-shaped wooden wing piece.
+958;988;The person grasps and pulls out the cross-shaped wooden wing piece.
+989;1052;The person brings the cross-shaped wing piece and the main body together, aligning them for attachment.
+1053;1083;The person attaches the first cross-shaped wing piece to the main body of the toy.
+1084;1113;The person holds the toy with one wing attached.
+1114;1144;The person reaches their left hand into the plastic bag to retrieve a red peg.
+1145;1175;The person grasps a red peg from the plastic bag.
+1176;1206;The person brings the red peg to the toy and begins inserting it into a hole on the wing.
+1207;1299;The person pushes the red peg firmly into the hole on the first wing to secure it.
+1300;1392;The person slightly adjusts the position of the red peg on the first wing.
+1393;1454;The person reaches their left hand into the black box to retrieve another cross-shaped wooden wing piece.
+1455;1485;The person grasps and pulls out the second cross-shaped wooden wing piece.
+1486;1547;The person brings the second cross-shaped wing piece and the toy together, aligning them for attachment.
+1548;1578;The person attaches the second cross-shaped wing piece to the main body of the toy.
+1579;1609;The person holds the toy with both wings attached.
+1610;1640;The person reaches their left hand into the plastic bag to retrieve a green peg.
+1641;1671;The person grasps a green peg from the plastic bag.
+1672;1702;The person brings the green peg to the toy and begins inserting it into a hole on the second wing.
+1703;1795;The person pushes the green peg firmly into the hole on the second wing to secure it.
+1796;1857;The person slightly adjusts the position of the green peg on the second wing.
+1858;1919;The person rotates and examines the partially assembled toy with both wings and two pegs.
+1920;1950;The person reaches their left hand into the plastic bag to retrieve a blue peg.
+1951;1981;The person grasps a blue peg from the plastic bag.
+1982;2012;The person brings the blue peg to the toy and begins inserting it into a hole on the toy's body.
+2013;2105;The person pushes the blue peg firmly into the hole on the toy's body to secure it.
+2106;2136;The person slightly adjusts the position of the blue peg on the toy's body.
+2137;2167;The person reaches their left hand into the black box to retrieve a straight wooden stick.
+2168;2198;The person grasps and pulls out the straight wooden stick.
+2199;2260;The person brings the straight wooden stick to the toy and inserts it into the rear hole, forming the tail.
+2261;2322;The person pushes the straight wooden stick firmly into the tail section.
+2323;2353;The person slightly adjusts the position of the straight wooden stick, ensuring it's secure.
+2354;2384;The person reaches their right hand into the plastic bag to retrieve a yellow peg.
+2385;2415;The person grasps a yellow peg from the plastic bag.
+2416;2477;The person brings the yellow peg to the toy and begins inserting it, then uses the wooden hammer to push it in.
+2478;2539;The person uses the wooden hammer to firmly push the yellow peg into the hole on the tail section.
+2540;2601;The person reaches their right hand into the plastic bag to retrieve another red peg.
+2602;2632;The person grasps another red peg from the plastic bag.
+2633;2694;The person brings the red peg to the toy and begins inserting it, then uses the wooden hammer to push it in.
+2695;2756;The person uses the wooden hammer to firmly push the red peg into the hole on the tail section.
+2757;2818;The person reaches their right hand into the plastic bag to retrieve a final yellow peg.
+2819;2849;The person grasps the final yellow peg from the plastic bag.
+2850;2911;The person brings the yellow peg to the toy and begins inserting it, then uses the wooden hammer to push it in.
+2912;2970;The person uses the wooden hammer to firmly push the last yellow peg into the hole near the propeller, completing the assembly.
