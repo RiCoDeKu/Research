@@ -1,0 +1,4 @@
+pred_idx,pred_start,pred_end,pred_narration,gt_idx,gt_start,gt_end,gt_narration,similarity,iou
+11,8310,9209,add_balsamic_vinegar,9,7647,8397,add_vinegar,0.666667,0.056302
+10,7380,8309,add_olive_oil,10,8414,8901,add_oil,0.666667,0.0
+5,3750,3899,slice_cheese,4,3491,5328,cut_cheese,0.333333,0.08161

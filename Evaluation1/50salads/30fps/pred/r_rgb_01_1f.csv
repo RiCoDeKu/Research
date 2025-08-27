@@ -1,0 +1,16 @@
+start_frame;stop_frame;narration
+254;464;use_grater
+614;2324;cut_tomato
+2324;2354;add_chopped_tomato_to_bowl
+2564;3344;cut_tomato
+3344;3374;add_chopped_tomato_to_bowl
+3584;3704;unwrap_cheese
+3704;5414;cut_cheese
+5414;5504;add_chopped_cheese_to_bowl
+5654;5714;take_lettuce_from_bag
+5714;6674;cut_lettuce
+6674;6794;add_chopped_lettuce_to_bowl
+7054;7304;open_dressing_bottles
+7394;9224;season_salad
+9224;10334;mix_salad
+10334;11686;cleanup

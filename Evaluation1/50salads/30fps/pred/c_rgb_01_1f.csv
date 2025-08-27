@@ -1,0 +1,17 @@
+start_frame;stop_frame;narration
+0;179;initial_setup
+180;569;get_knife_and_tomato
+570;2309;slice_tomato
+2310;3329;dice_and_add_tomato_to_bowl
+3330;3749;unwrap_cheese
+3750;3899;slice_cheese
+3900;5399;dice_and_add_cheese_to_bowl
+5400;5849;remove_lettuce_from_bag
+5850;6659;cut_and_add_lettuce_to_bowl
+6660;7379;add_shaker_seasoning
+7380;8309;add_olive_oil
+8310;9209;add_balsamic_vinegar
+9210;10169;mix_salad_ingredients
+10170;10349;taste_salad
+10350;10799;clean_up_cutting_area
+10800;11686;final_actions
