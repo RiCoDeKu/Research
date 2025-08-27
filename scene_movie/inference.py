@@ -78,4 +78,6 @@ print(f"Epic-Kitchens: {len(epic_videos)} videos, {len(gt_epic_csvs)} GT CSVs, {
 
 # print("【Successfully】All videos processed!!")
 #DEBUG
-os.system("CUDA_VISIBLE_DEVICES=1,2 python multi_gpu_creater.py --video /home/yamaguchi/vmlserver06/dataset/50salads/30fps/video/frame/rgb-01-1f.mp4 --csv /home/yamaguchi/vmlserver06/dataset/50salads/30fps/annotation/gt_01_1.csv --gpus 2 --output ./output")
+for i in [4,5,6]:
+    print(f"##########################\nProcessing CSV: {i}\n##########################")
+    os.system(f"CUDA_VISIBLE_DEVICES=1,2 python multi_gpu_creater.py --video /home/yamaguchi/vmlserver06/dataset/50salads/30fps/video/frame/rgb-01-1f.mp4 --csv /home/yamaguchi/vmlserver06/Research/scene_movie/result_videoRAG_gemini_{i}.csv --gpus 2 --output ./output")
