@@ -1,0 +1,2 @@
+num_gt,num_pred,tp,fp,fn,precision,recall,f1,mean_iou_matched,median_iou_matched,iou_thr,matching
+13,23,5,18,8,0.2174,0.3846,0.2778,0.3687,0.4108,0.25,hungarian

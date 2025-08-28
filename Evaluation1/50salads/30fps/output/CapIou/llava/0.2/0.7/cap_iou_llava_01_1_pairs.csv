@@ -1,0 +1,10 @@
+pred_idx,pred_start,pred_end,pred_narration,gt_idx,gt_start,gt_end,gt_narration,similarity,iou
+7,1686,2075,cut_lettuce,6,5546,6524,cut_lettuce,1.0,0.0
+2,298,534,cut_cucumber,2,2549,3247,cut_tomato,0.333333,0.0
+1,170,298,chop_tomato,0,604,2199,cut_tomato,0.333333,0.0
+10,2736,3064,add_cheese_to_bowl,5,5328,5535,place_cheese_into_bowl,0.333333,0.0
+3,534,752,grind_pepper,11,8921,9218,add_pepper,0.333333,0.0
+0,0,170,prepare_dressing,12,9225,10342,mix_dressing,0.333333,0.0
+8,2075,2400,add_lettuce_to_bowl,7,6524,7035,place_lettuce_into_bowl,0.333333,0.0
+9,2400,2736,add_tomato_and_cucumber_to_bowl,3,3247,3334,place_tomato_into_bowl,0.25,0.0
+14,4082,4405,add_bottle_of_dressing,9,7647,8397,add_vinegar,0.2,0.0
