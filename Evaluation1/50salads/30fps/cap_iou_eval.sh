@@ -22,9 +22,9 @@
 
 VIDEO_NAME="01_1"
 GROUND_TRUTH_PATH="/home/yamaguchi/vmlserver06/Research/Evaluation1/50salads/30fps/gt/gt_${VIDEO_NAME}.csv"
-PREDICTION_PATH="/home/yamaguchi/vmlserver06/Research/Evaluation1/50salads/30fps/pred/r_rgb_${VIDEO_NAME}f.csv"
+PREDICTION_PATH="/home/yamaguchi/vmlserver06/Research/Evaluation1/50salads/30fps/pred/h_rgb_${VIDEO_NAME}f.csv"
 FPS=30 # Frames per second
-DATATYPE="rag"
+DATATYPE="hoi"
 for sim in 0.2 0.25 0.3 0.4; do
     for iou in 0.1 0.3 0.5 0.7; do
         OUTPUT_PATH="/home/yamaguchi/vmlserver06/Research/Evaluation1/50salads/30fps/output/CapIou/${DATATYPE}/${sim}/${iou}/cap_iou_gemini_${VIDEO_NAME}.csv"
