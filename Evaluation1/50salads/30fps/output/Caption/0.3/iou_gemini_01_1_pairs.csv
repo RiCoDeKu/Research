@@ -1,0 +1,6 @@
+pred_idx,pred_start,pred_end,pred_narration,gt_idx,gt_start,gt_end,gt_narration,similarity
+11,8310,9209,add_balsamic_vinegar,9,7647,8397,add_vinegar,0.666667
+10,7380,8309,add_olive_oil,10,8414,8901,add_oil,0.666667
+5,3750,3899,slice_cheese,4,3491,5328,cut_cheese,0.333333
+2,570,2309,slice_tomato,0,604,2199,cut_tomato,0.333333
+8,5850,6659,cut_and_add_lettuce_to_bowl,6,5546,6524,cut_lettuce,0.333333

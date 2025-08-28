@@ -1,0 +1,12 @@
+pred_idx,pred_start,pred_end,pred_narration
+0,0,167,set_up_kitchen_area
+1,168,464,prepare_seasoning
+2,465,679,prepare_to_cut_tomato
+11,7005,7394,open_dressing_ingredients
+12,7395,9256,add_dressing_and_seasoning
+14,10304,10354,remove_salad_bowl
+15,10355,10816,clean_cutting_board
+16,10817,10999,put_away_utensils
+17,11000,11234,review_recipe_instructions
+18,11235,11384,put_away_seasoning_bottles
+19,11385,11685,finalize_preparation

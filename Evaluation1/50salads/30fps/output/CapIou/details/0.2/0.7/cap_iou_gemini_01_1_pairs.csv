@@ -1,0 +1,6 @@
+pred_idx,pred_start,pred_end,pred_narration,gt_idx,gt_start,gt_end,gt_narration,similarity,iou
+40,6884,6993,The person transfers the last of the chopped lettuce into the bowl.,7,6524,7035,place_lettuce_into_bowl,0.3,0.214844
+29,5394,5513,The person transfers all the cut cheese from the cutting board into the blue mixing bowl.,5,5328,5535,place_cheese_into_bowl,0.214286,0.576923
+27,4564,5083,"The person continues to cut the cheese into small, uniform cubes.",4,3491,5328,cut_cheese,0.2,0.282916
+19,2794,3363,The person completes the dicing and transfers the last remaining tomato pieces into the blue mixing bowl.,3,3247,3334,place_tomato_into_bowl,0.2,0.154386
+8,724,763,The person uses a knife to cut the tomato in half.,2,2549,3247,cut_tomato,0.2,0.0
