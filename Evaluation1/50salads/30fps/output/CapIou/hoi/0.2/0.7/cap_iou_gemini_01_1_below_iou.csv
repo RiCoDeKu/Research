@@ -1,8 +1,0 @@
-pred_idx,pred_start,pred_end,pred_narration,gt_idx,gt_start,gt_end,gt_narration,similarity,iou
-3,680,2234,cut_tomato,2,2549,3247,cut_tomato,1.0,0.0
-5,2355,3344,cut_tomato_again,0,604,2199,cut_tomato,0.666667,0.0
-6,3345,3554,transfer_tomato_to_bowl,1,2199,2535,place_tomato_into_bowl,0.333333,0.0
-4,2235,2354,transfer_tomato_to_bowl,3,3247,3334,place_tomato_into_bowl,0.333333,0.0
-10,6795,7004,transfer_lettuce_to_bowl,7,6524,7035,place_lettuce_into_bowl,0.333333,0.410156
-8,5415,5564,transfer_cheese_to_bowl,5,5328,5535,place_cheese_into_bowl,0.333333,0.510549
-12,7395,9256,add_dressing_and_seasoning,8,7358,7625,add_salt,0.2,0.121643

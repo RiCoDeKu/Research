@@ -1,5 +1,0 @@
-pred_idx,pred_start,pred_end,pred_narration,gt_idx,gt_start,gt_end,gt_narration,similarity,iou
-9,5565,6794,cut_lettuce,6,5546,6524,cut_lettuce,1.0,0.768615
-3,680,2234,cut_tomato,2,2549,3247,cut_tomato,1.0,0.0
-7,3555,5414,cut_cheese,4,3491,5328,cut_cheese,1.0,0.922037
-5,2355,3344,cut_tomato_again,0,604,2199,cut_tomato,0.666667,0.0

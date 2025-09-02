@@ -1,0 +1,12 @@
+pred_idx,pred_start,pred_end,pred_narration
+0,0,179,initial_setup
+1,180,569,get_knife_and_tomato
+2,570,2309,slice_tomato
+4,3330,3749,unwrap_cheese
+5,3750,3899,slice_cheese
+7,5400,5849,remove_lettuce_from_bag
+9,6660,7379,add_shaker_seasoning
+12,9210,10169,mix_salad_ingredients
+13,10170,10349,taste_salad
+14,10350,10799,clean_up_cutting_area
+15,10800,11686,final_actions

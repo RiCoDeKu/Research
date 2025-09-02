@@ -25,10 +25,10 @@ GROUND_TRUTH_PATH="/home/yamaguchi/vmlserver06/Research/Evaluation1/50salads/30f
 PREDICTION_PATH="/home/yamaguchi/vmlserver06/Research/Evaluation1/50salads/30fps/pred/l_rgb_${VIDEO_NAME}f.csv"
 FPS=30 # Frames per second
 DATATYPE="llava"
-for sim in 0.2 0.25 0.3 0.4; do
-    for iou in 0.1 0.3 0.5 0.7; do
-        OUTPUT_PATH="/home/yamaguchi/vmlserver06/Research/Evaluation1/50salads/30fps/output/CapIou/${DATATYPE}/${sim}/${iou}/cap_iou_llava_${VIDEO_NAME}.csv"
-        VIZ_PATH="/home/yamaguchi/vmlserver06/Research/Evaluation1/50salads/30fps/output/CapIou/${DATATYPE}/${sim}/${iou}/viz_llava_${VIDEO_NAME}.png"
+for sim in 0.3; do
+    for iou in 0.3 0.5 0.7; do
+        OUTPUT_PATH="/home/yamaguchi/vmlserver06/Research/Evaluation1/50salads/30fps/output/CapIou/${DATATYPE}/${sim}/${iou}/cap_iou_${VIDEO_NAME}.csv"
+        VIZ_PATH="/home/yamaguchi/vmlserver06/Research/Evaluation1/50salads/30fps/output/CapIou/${DATATYPE}/${sim}/${iou}/viz_${VIDEO_NAME}.png"
         python cap_iou_eval.py \
         --gt ${GROUND_TRUTH_PATH} \
         --pred ${PREDICTION_PATH} \

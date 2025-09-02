@@ -1,2 +1,0 @@
-num_gt,num_pred,tp_combined,fp_combined,fn_combined,precision_combined,recall_combined,f1_combined,sim_thr,iou_thr,method,matching,alpha_iou,caption_tp,caption_precision,caption_recall,caption_f1,mean_iou_on_matched,median_iou_on_matched,mean_similarity_on_matched
-13,16,3,13,10,0.1875,0.2308,0.2069,0.2,0.5,jaccard,hungarian,0.0,10,0.625,0.7692,0.6897,0.2739,0.069,0.3533

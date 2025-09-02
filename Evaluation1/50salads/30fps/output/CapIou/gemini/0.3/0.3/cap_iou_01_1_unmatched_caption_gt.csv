@@ -1,0 +1,9 @@
+gt_idx,gt_start,gt_end,gt_narration
+0,604,2199,cut_tomato
+2,2549,3247,cut_tomato
+3,3247,3334,place_tomato_into_bowl
+4,3491,5328,cut_cheese
+6,5546,6524,cut_lettuce
+8,7358,7625,add_salt
+11,8921,9218,add_pepper
+12,9225,10342,mix_dressing

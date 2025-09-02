@@ -1,2 +1,0 @@
-pred_idx,pred_start,pred_end,pred_narration,gt_idx,gt_start,gt_end,gt_narration,similarity,iou
-8,724,763,The person uses a knife to cut the tomato in half.,2,2549,3247,cut_tomato,0.2,0.0

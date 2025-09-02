@@ -1,2 +1,0 @@
-pred_idx,pred_start,pred_end,pred_narration,gt_idx,gt_start,gt_end,gt_narration,similarity,iou
-40,6884,6993,The person transfers the last of the chopped lettuce into the bowl.,7,6524,7035,place_lettuce_into_bowl,0.3,0.214844

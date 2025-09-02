@@ -289,6 +289,7 @@ def main():
         S = sim_matrix_tfidf(gt_caps, pred_caps, args.ngram_min, args.ngram_max, args.stopwords)
         method_used = "tfidf" if S is not None else "jaccard"
         if S is None:
+            print(f"TF-IDF similarity matrix could not be computed, falling back to Jaccard.")
             S = sim_matrix_jaccard(gt_caps, pred_caps)
     else:
         S = sim_matrix_jaccard(gt_caps, pred_caps); method_used = "jaccard"

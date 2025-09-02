@@ -1,2 +1,0 @@
-num_gt,num_pred,tp,fp,fn,precision,recall,f1,mean_sim_matched,median_sim_matched,sim_thr,method,matching,alpha_iou
-13,16,0,16,13,0.0,0.0,0.0,0.0,0.0,0.7,jaccard,hungarian,0.0
