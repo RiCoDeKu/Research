@@ -1,2 +1,0 @@
-pred_idx,pred_start,pred_end,pred_narration,gt_idx,gt_start,gt_end,gt_narration,similarity,iou
-6,3345,3554,transfer_tomato_to_bowl,3,3247,3334,place_tomato_into_bowl,0.365011,0.0

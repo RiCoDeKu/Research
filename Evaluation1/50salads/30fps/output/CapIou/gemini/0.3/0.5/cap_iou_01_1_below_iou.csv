@@ -1,6 +1,0 @@
-pred_idx,pred_start,pred_end,pred_narration,gt_idx,gt_start,gt_end,gt_narration,similarity,iou
-3,2310,3329,dice_and_add_tomato_to_bowl,1,2199,2535,place_tomato_into_bowl,0.302954,0.199823
-6,3900,5399,dice_and_add_cheese_to_bowl,5,5328,5535,place_cheese_into_bowl,0.318398,0.04401
-8,5850,6659,cut_and_add_lettuce_to_bowl,7,6524,7035,place_lettuce_into_bowl,0.329699,0.114671
-10,7380,8309,add_olive_oil,10,8414,8901,add_oil,0.333247,0.0
-11,8310,9209,add_balsamic_vinegar,9,7647,8397,add_vinegar,0.333247,0.056302
