@@ -270,7 +270,7 @@ def _plot_iou_matrix(pred_df, gt_df, out_png, max_matrix=200):
     ax.set_ylabel("Pred index (subsampled)" if len(pr_idx)<len(pred_segs) else "Pred index")
     ax.set_title("IoU matrix (Pred x GT)")
     fig.tight_layout()
-    fig.savefig(out_png, dpi=200)
+    fig.savefig(out_png, dpi=600)
     plt.close(fig)
 
 # ===== Main =====
