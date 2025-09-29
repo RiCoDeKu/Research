@@ -21,14 +21,14 @@
 # done
 
 VIDEO_NAME="01_1"
-GROUND_TRUTH_PATH="/home/yamaguchi/vmlserver06/Research/Evaluation1/50salads/30fps/gt/gt_${VIDEO_NAME}.csv"
-PREDICTION_PATH="/home/yamaguchi/vmlserver06/Research/Evaluation1/50salads/30fps/pred/l_rgb_${VIDEO_NAME}f.csv"
+GROUND_TRUTH_PATH="/home/yamaguchi/vmlserver06/Research/Evaluation1/50salads/30fps/gt/gt_rgb_${VIDEO_NAME}.csv"
+PREDICTION_PATH="/home/yamaguchi/vmlserver06/Research/Evaluation1/50salads/30fps/pred/rgb_${VIDEO_NAME}f/exp0929/o_rgb_${VIDEO_NAME}f.csv"
 FPS=30 # Frames per second
-DATATYPE="llava"
+DATATYPE="gemini"
 for sim in 0.3; do
     for iou in 0.3 0.5 0.7; do
-        OUTPUT_PATH="/home/yamaguchi/vmlserver06/Research/Evaluation1/50salads/30fps/output/CapIou/${DATATYPE}/${sim}/${iou}/cap_iou_${VIDEO_NAME}.csv"
-        VIZ_PATH="/home/yamaguchi/vmlserver06/Research/Evaluation1/50salads/30fps/output/CapIou/${DATATYPE}/${sim}/${iou}/viz_${VIDEO_NAME}.png"
+        OUTPUT_PATH="/home/yamaguchi/vmlserver06/Research/Evaluation1/50salads/30fps/output/CapIou/exp0929/${DATATYPE}/${sim}/${iou}/cap_iou_${VIDEO_NAME}.csv"
+        VIZ_PATH="/home/yamaguchi/vmlserver06/Research/Evaluation1/50salads/30fps/output/CapIou/exp0929/${DATATYPE}/${sim}/${iou}/viz_${VIDEO_NAME}.png"
         python cap_iou_eval.py \
         --gt ${GROUND_TRUTH_PATH} \
         --pred ${PREDICTION_PATH} \

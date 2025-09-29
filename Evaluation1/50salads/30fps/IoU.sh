@@ -21,14 +21,14 @@
 # done
 
 VIDEO_NAME="01_1"
-GROUND_TRUTH_PATH="/home/yamaguchi/vmlserver06/Research/Evaluation1/50salads/30fps/gt/gt_${VIDEO_NAME}.csv"
-PREDICTION_PATH="/home/yamaguchi/vmlserver06/Research/Evaluation1/50salads/30fps/pred/r_rgb_${VIDEO_NAME}f.csv"
-TYPE="rag"
+GROUND_TRUTH_PATH="/home/yamaguchi/vmlserver06/Research/Evaluation1/50salads/30fps/gt/gt_rgb_${VIDEO_NAME}.csv"
+PREDICTION_PATH="/home/yamaguchi/vmlserver06/Research/Evaluation1/50salads/30fps/pred/rgb_${VIDEO_NAME}f/exp0929/o_rgb_${VIDEO_NAME}f.csv"
+TYPE="gemini"
 FPS=30 # Frames per second
 TOLERANCE=${k} # SEC
 
 for iou in 0.25 0.5 0.7; do
-    OUTPUT_PATH="/home/yamaguchi/vmlserver06/Research/Evaluation1/50salads/30fps/output/IoU/${TYPE}/${iou}/iou_${VIDEO_NAME}.csv"
+    OUTPUT_PATH="/home/yamaguchi/vmlserver06/Research/Evaluation1/50salads/30fps/output/IoU/exp0929/${TYPE}/${iou}/iou_${VIDEO_NAME}.csv"
     python IoU.py \
     --gt ${GROUND_TRUTH_PATH} \
     --pred ${PREDICTION_PATH} \
